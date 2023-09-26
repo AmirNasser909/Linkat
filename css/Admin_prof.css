@@ -1,0 +1,73 @@
+/* ==========================================================================
+profile section
+========================================================================== */
+
+#adminprofile{
+    padding-top: 50px;
+    padding-bottom: 50px;
+  /*  background: #3B3B3B url('../images/portfolio-img5.jpg') no-repeat center center;*/
+  background-size: cover;
+  color: #ffffff;
+
+}
+section#adminprofile
+{
+    
+    
+    text-align: center;
+}
+#p_data{
+    background: #ffffff;
+    border-radius: 10px;
+    color: #2dc291;
+
+}
+#t_data{
+    height: 100%;
+    margin: 20px;
+     color: #2dc291;
+}
+#p_img{
+    height: 75px;
+    padding-right: 0px;
+}
+#r_data{
+    padding-left: 20px;
+}
+#qualification{
+    background: #ffffff;
+    color:#2dc291;
+    border-radius: 10px;
+}
+#rate{
+margin-left: 20px;
+margin-bottom:10px;
+}
+
+#admin_nav{
+    margin: 10px;
+    background: #2dc291;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 11px;
+    color: #ffffff;
+}#admin_nav{
+    display : table-cell;
+    margin: 10px;
+    padding: 20px;
+    background: #2dc291;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 20px;
+    color: #ffffff;
+   
+    
+}
+#admin_na{
+    display: table;
+    width: 100%;
+    align-self: center;
+    border: 20px;
+    border-color: red;
+    
+}

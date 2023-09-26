@@ -1,0 +1,98 @@
+
+#all{
+    margin-top: 50px;
+}
+#coursesnav{
+   margin: 10px;
+    background: #2dc291;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 11px;
+    color: #ffffff; 
+}
+
+#coursesnavv{
+    background-color: #2dc291; /* Green */
+    border: none;
+    color: white;
+    margin-top: 12px;
+    padding: 15px 15px;
+    text-align: -webkit-center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 11px;
+    
+}
+#course_dis{
+  background-color: #ffffff;
+  margin-top: 60px;
+  padding: 20px;
+  border-radius: 50px;
+  border: 2px dotted#2dc291;
+  
+}
+#plbtn{
+    border: none;
+    background: transparent;
+    color: #ffffff;
+    font-size: 24px;
+    font-weight: 500;
+    text-align: -webkit-left;
+}
+#plbtn:hover{
+      background: transparent;
+    color: #eeeeee;
+}
+.custom-navbar .nav > li > button:focus{
+      background-color: transparent;
+    color: #ffffff;
+    outline: none;
+}
+.quizbtn , .comptetionbtn{
+    margin-top: 50px;
+    font-size: 25px;   
+    background-color: #ffffff;
+    border-color: #2dc291;
+        color: #2dc291;
+}
+legend{
+background-color: #2dc291;
+color: #ffffff;
+  padding: 5px;
+  border-radius: 20px;
+  text-align: center;
+
+}
+#link_table{
+    display: table;
+    width: 100%;
+    line-height: 40px;
+    
+}
+#link_table th ,tr,td{
+    text-align: -webkit-auto;
+}
+#link_table th ,tr{
+    border-bottom: 2px solid #2dc291;
+}
+#link{
+    display: table-cell;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

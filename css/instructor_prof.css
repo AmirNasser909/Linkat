@@ -1,0 +1,87 @@
+
+/* ==========================================================================
+profile section
+========================================================================== */
+
+#instructorprofile{
+    padding-top: 100px;
+    padding-bottom: 100px;
+  background-size: cover;
+  color: #ffffff;
+   
+}
+#r_data{
+    padding-left: 10px;
+    text-align: center;
+}
+#r_data th{
+    text-align: -webkit-center;
+}
+.capitalize{
+    color: #fff;
+    background-color: #00816A;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: -15px;
+}
+#p_data{
+    background: #ffffff;
+    border-radius: 10px;
+    color: #2dc291;
+    
+}
+#t_data{
+      margin: 20px;
+     color: #2dc291;
+}
+#p_img{
+    height: 75px;
+    padding-right: 0px;
+}
+#qualification{
+    background: #ffffff;
+    color:#2dc291;
+    border-radius: 10px;
+}
+#rate{
+margin-left: 10px;
+margin-bottom:10px;
+}
+
+#instructor_nav{
+   margin: 5px;
+    background: #2dc291;
+    border-radius: 5px;
+    font-size:18px;
+    color: #ffffff;
+    font-weight: 400;
+}
+
+#instructor_navv{
+    background-color: #2dc291; /* Green */
+    border: none;
+    color: white;
+    margin-top: 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    
+}
+#mymodeler{
+    
+    color: #2dc291;
+}
+#word{
+color: #2dc291;
+
+}
+#input{
+    width:500px;
+    height: 200px;
+    
+}
+#inputfile{
+    height: inherit;
+    border: none;
+}
